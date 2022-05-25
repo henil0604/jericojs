@@ -8,6 +8,10 @@ This SDK provides a way to communicate with your Jerico-Server
 npm i jericojs
 ```
 
+### Jerico-Server
+
+This Library Uses custom server that is built for JericoJs. You can download the server code from [here](https://github.com/henil0604/jerico-server)
+
 ## Usage
 
 ### Jerico Instance
